@@ -1,0 +1,60 @@
+/*file view/persona.php*/
+body{
+    font-family: cursive;
+}
+ol > li {
+    padding: 0px 5px;
+}
+.container{
+    margin-top: 30px;
+}
+.page-header{
+    font-weight: bold;
+}
+.btn-add{
+    margin: 8px 0px;
+}
+.thead{
+    background:   #0e6251;
+    color: #ffffff;
+}
+.btn-color{
+    background:  #0e6251;
+    color: #ffffff;
+}
+.btn-color:hover{
+    color: #0e6251;
+    background: #ffffff;
+    border-color: #0e6251;
+}
+.btn-style{
+    background: #C82333;
+    color: #ffffff;
+}
+.btn-style:hover{
+    color: #C82333;
+    background: #ffffff;
+    border-color: #C82333;
+}
+/*Edit-Save*/
+.breadcrumb{
+    background: #0e6251;
+    color: #ffffff;
+}
+.homepage{
+    color: #ffffff;
+    text-decoration: none;
+}
+.btn-save-edit{
+    background: #0e6251;
+    color: #ffffff;
+}
+.btn-save-edit:hover{
+    background: #ffffff;
+    color: #0e6251;
+    border-color: #0e6251;
+}
+.homepage:hover{
+    color: #000000;
+    text-decoration: none;
+}
